@@ -31,7 +31,7 @@ export default function Navbar() {
             <Sparkles className="w-4 h-4 text-[#C6A052]" />
           </div>
           <span className="font-serif font-semibold tracking-wider text-sm md:text-base text-[#F8F5F0]">
-            LUMINIS <span className="text-[#C6A052]">FACE</span>
+            Dra. Francyne <span className="text-[#C6A052]">Ferraz</span>
           </span>
         </div>
 

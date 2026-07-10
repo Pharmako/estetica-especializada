@@ -41,7 +41,7 @@ export default function Footer() {
         {/* Brand */}
         <div className="flex items-center gap-2">
           <span className="font-serif tracking-wider font-medium text-[#F8F5F0]">
-            LUMINIS <span className="text-[#C6A052]">FACE</span>
+            Dra. Francyne <span className="text-[#C6A052]">Ferraz</span>
           </span>
           <span className="text-[10px] text-[#F8F5F0]/30">| © 2026. All rights reserved.</span>
         </div>

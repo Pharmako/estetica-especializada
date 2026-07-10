@@ -41,12 +41,12 @@ export default function Hero() {
         ref={imageContainerRef}
         className="absolute inset-0 w-full h-full z-0 transition-transform"
       >
-        {/* Professional Portrait of Dra. Danubia with Espresso Gradient Overlay */}
+        {/* Professional Portrait of Dra. Francyne Ferraz with Espresso Gradient Overlay */}
         <div className="absolute inset-0 bg-gradient-to-r from-[#150A05]/95 via-[#150A05]/75 to-[#150A05]/30 md:from-[#150A05]/95 md:via-[#150A05]/65 md:to-transparent z-10" />
         <div className="absolute inset-0 bg-gradient-to-t from-[#150A05] via-[#150A05]/20 to-[#150A05]/40 z-10" />
         <img
           src="/danubia_hero.png"
-          alt="Dra. Danubia - Luminis Face"
+          alt="Dra. Francyne Ferraz"
           className="w-full h-full object-cover object-center md:object-[right_25%]"
         />
       </div>
@@ -56,7 +56,7 @@ export default function Hero() {
         {/* Eyebrow */}
         <div className="animate-text overflow-hidden mb-4">
           <span className="inline-block text-[11px] md:text-xs uppercase tracking-[0.25em] text-[#C6A052] font-semibold">
-            Luminis Face · Clínica de Estética Premium
+            Dra. Francyne Ferraz · Clínica de Estética Premium
           </span>
         </div>
 
@@ -96,11 +96,7 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Aesthetic Telemetry detail in bottom-left */}
-      <div className="absolute bottom-8 left-6 md:left-20 z-20 hidden md:flex flex-col text-[10px] uppercase tracking-widest text-[#F8F5F0]/40">
-        <span>Aesthetic Precision · 5.0 Rating</span>
-        <span>Luminis Boutique Experience</span>
-      </div>
+
     </section>
   );
 }

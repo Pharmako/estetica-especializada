@@ -38,7 +38,7 @@ export default function FeaturesBento() {
         {/* Section Header */}
         <div className="flex flex-col items-start text-left mb-16 max-w-2xl">
           <span className="text-[11px] uppercase tracking-[0.25em] text-[#C6A052] font-semibold mb-3">
-            O Método Luminis
+            O Método Dra. Francyne Ferraz
           </span>
           <h2 className="font-serif text-3xl md:text-5xl text-[#F8F5F0] leading-tight">
             A união perfeita de ciência, <br />
@@ -167,7 +167,7 @@ export default function FeaturesBento() {
             </div>
           </div>
 
-          {/* Card 3: A Experiência Luminis (Concierge Pulse) */}
+          {/* Card 3: A Experiência Francyne Ferraz (Concierge Pulse) */}
           <div className="lg:col-span-3 relative rounded-[2.5rem] bg-[#2C1A12]/50 backdrop-blur-md border border-[#C6A052]/20 p-8 md:p-12 overflow-hidden flex flex-col md:flex-row md:items-center md:justify-between gap-6 transition-all duration-500 hover:border-[#C6A052]/40">
             <div className="flex items-center gap-6">
               {/* Calm pulsing gold dot */}
@@ -180,7 +180,7 @@ export default function FeaturesBento() {
                   Experiência Exclusiva
                 </span>
                 <h3 className="font-serif text-2xl text-[#F8F5F0] mb-2">
-                  A Experiência Luminis
+                  A Experiência Francyne Ferraz
                 </h3>
                 <p className="text-sm text-[#F8F5F0]/70 max-w-2xl">
                   Um momento de cuidado absoluto, desde os detalhes do menu da nossa recepção até o acompanhamento final personalizado. Concierge disponível para curadoria do seu protocolo.

@@ -56,7 +56,7 @@ export default function Testimonial() {
 
         {/* Author info */}
         <cite className="not-italic text-xs md:text-sm uppercase tracking-[0.25em] text-[#C6A052] font-semibold">
-          — Paciente da Clínica Luminis Face
+          — Paciente da Dra. Francyne Ferraz
         </cite>
       </div>
     </section>
